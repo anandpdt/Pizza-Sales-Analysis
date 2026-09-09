@@ -103,7 +103,7 @@ PowerBI/Pizza_Sales_Dashboard.pbix
 
 ### Main Dashboard
 
-![Pizza Sales Dashboard](Dashboard/pizza_sales_dashboard.png)
+![Pizza Sales Dashboard](Dashboard_images/home_page.png)
 
 > **Note:** The screenshot above provides a preview of the dashboard. For full interactivity, open the `.pbix` file using Power BI Desktop.
 
