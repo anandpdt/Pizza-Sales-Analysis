@@ -1,11 +1,11 @@
-# 🍕 Pizza Sales Analysis | SQL Server & Power BI
+#  Pizza Sales Analysis | SQL Server & Power BI
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-Data%20Analysis-blue)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
 ![DAX](https://img.shields.io/badge/DAX-Measures-orange)
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Project-green)
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes pizza sales data using **SQL Server** and **Microsoft Power BI** to evaluate business performance, identify sales trends, understand customer preferences, and determine the best- and worst-performing pizza products.
 
@@ -13,7 +13,7 @@ The project combines **SQL-based data analysis** with an interactive **Power BI 
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 The main objectives of this project are to:
 
@@ -27,7 +27,7 @@ The main objectives of this project are to:
 
 ---
 
-## 📊 Key Performance Indicators (KPIs)
+##  Key Performance Indicators (KPIs)
 
 The analysis calculates the following KPIs:
 
@@ -41,7 +41,7 @@ The analysis calculates the following KPIs:
 
 ---
 
-## 📈 Dashboard Analysis
+##  Dashboard Analysis
 
 The Power BI dashboard provides insights into:
 
@@ -70,13 +70,13 @@ The Power BI dashboard provides insights into:
 
 ---
 
-## 🖥️ Power BI Dashboard
+##  Power BI Dashboard
 
 The dashboard was developed using **Microsoft Power BI Desktop**.
 
 Since the dashboard is not published publicly, the interactive report is provided as a `.pbix` file in this repository.
 
-### 📂 Power BI File
+###  Power BI File
 
 You can open the Power BI report from:
 
@@ -99,15 +99,15 @@ PowerBI/Pizza_Sales_Dashboard.pbix
 
 ---
 
-## 🖼️ Power BI Dashboard Preview
+##  Power BI Dashboard Preview
 
-### 🏠 Dashboard Home Page
+###  Dashboard Home Page
 
 <p align="center">
   <img src="Dashboard_images/home_page.png" width="90%" />
 </p>
 
-### 📊 Sales Report
+### Sales Report
 
 <p align="center">
   <img src="Dashboard_images/sales_report.png" width="90%" />
@@ -116,7 +116,7 @@ PowerBI/Pizza_Sales_Dashboard.pbix
 > **Note:** The images above provide a preview of the Power BI dashboard.  
 > For the complete interactive dashboard, open the `.pbix` file in Microsoft Power BI Desktop.
 
-📂 **Power BI File:** `PowerBi/pizza_sales_dashboard.pbix`
+ **Power BI File:** `PowerBi/pizza_sales_dashboard.pbix`
 
 ## 🛠️ Tools & Technologies
 
@@ -129,7 +129,7 @@ PowerBI/Pizza_Sales_Dashboard.pbix
 
 ---
 
-## 🔍 SQL Analysis
+##  SQL Analysis
 
 The SQL analysis covers multiple aspects of the pizza sales dataset.
 
@@ -169,7 +169,7 @@ SQL/pizza_sales_analysis.sql
 
 ---
 
-## 💡 Business Questions Addressed
+##  Business Questions Addressed
 
 This project answers questions such as:
 
@@ -188,7 +188,7 @@ This project answers questions such as:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 Pizza-Sales-Analysis/
@@ -213,7 +213,7 @@ Pizza-Sales-Analysis/
 
 ---
 
-## 🚀 How to Explore the Project
+##  How to Explore the Project
 
 ### 1. Clone the Repository
 
@@ -256,7 +256,7 @@ Use the available filters and visualizations to analyze:
 
 ---
 
-## 📚 Skills Demonstrated
+##  Skills Demonstrated
 
 ### SQL
 
@@ -294,7 +294,7 @@ Use the available filters and visualizations to analyze:
 
 ---
 
-## 📌 Project Outcome
+##  Project Outcome
 
 The project demonstrates how **SQL Server and Power BI can be combined to transform transactional sales data into a business intelligence solution**.
 
