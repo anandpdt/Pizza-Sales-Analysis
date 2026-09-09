@@ -113,9 +113,6 @@ PowerBI/Pizza_Sales_Dashboard.pbix
   <img src="Dashboard_images/sales_report.png" width="90%" />
 </p>
 
-> **Note:** The screenshots above provide a preview of the Power BI dashboard.  
-> For the complete interactive dashboard, download and open the `.pbix` file using Microsoft Power BI Desktop.
-
 > **Note:** The images above provide a preview of the Power BI dashboard.  
 > For the complete interactive dashboard, open the `.pbix` file in Microsoft Power BI Desktop.
 
